@@ -1,0 +1,12 @@
+.nav-bar{
+    position: relative;
+    width: 100%;
+}
+
+
+.cartInfoContainer{
+    position: absolute;
+    top:5%;
+    right: 5%;
+    text-align: end;
+}
